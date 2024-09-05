@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br/>
 
 <p style="text-align:left;"> **Cornell University** <span style="float:right;"> *Ithaca, NY* </span>
-<p style="text-align:left;"> B.S. in Environment & Sustainability
+<p style="text-align:left;"> **B.S. in Environment & Sustainability**
 <span style="float:right;"> *August 2020 – May 2024* </span>
 </p>
 •	Minor: Sustainable Agricultural and Food Systems  
@@ -33,7 +33,6 @@ knitr::opts_chunk$set(echo = TRUE)
 <hr/>
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Mallory, E. B., Matthew, R. R., (2024). High Seeding Rates Suppress Weeds and Increase Yield in Organic No-Till Planted Black Bean. Agronomy Journal. (in preparation)
 <hr/>
-
 #### **Conference Presentations**
 <hr/>
 Sharifi, N. A., Pelzer, C. J., Menalled, U. D., Loria, K., Wayman, S., Silva, E. M., Matthew, R. R., (2024, October). Optimizing Weed Management and Crop Yield in Organic No-till Planted Corn Production. Oral presentation at the 2024 ASA, CSSA, SSSA International Annual Meeting in Organic Management Systems Oral Session (includes graduate student competition), San Antonio, TX (abstract accepted)
@@ -97,9 +96,6 @@ Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridg
 •	Sampled, harvested, and transported the hydroponic-grown feed for dairy cattle consumption  
 •	Worked collaboratively with graduate students and research assistants to execute experimental protocols  
 <hr/>
-
-<br/>
-
 #### **Teaching**
 <hr/>
 <p style="text-align:left;"> **The Global Food, Energy, and Water Nexus – Engaging the US, China, and India for a Sustainable Future | ANSC/FDSC/AEM/CHEME 4880, ANSC/FDSC/AEM 6880, CHEME 6780/CEE5820** <span style="float:right;"> *2023* </span> </p>

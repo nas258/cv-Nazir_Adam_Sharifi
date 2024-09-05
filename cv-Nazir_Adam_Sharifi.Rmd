@@ -9,9 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center> <h2> Nazir Adam Sharifi </h1> </center>
 <center> <h4> 17 Normandy Grange, Garrison, NY </h2> </center>
-<center> <h4> 607-342-2191 • nas258@cornell.edu </h1> </center>
+<center> <h4> 607-342-2191 </center> • nas258@cornell.edu </h1> </center>
 
-**ERROR ERROR I AM MAKING A MISTAKE**
 #### **Education**
 <hr/>
 <p style="text-align:left;"> **Cornell University** <span style="float:right;"> *Ithaca, NY*</span>
@@ -22,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br/>
 
 <p style="text-align:left;"> **Cornell University** <span style="float:right;"> *Ithaca, NY* </span>
-<p style="text-align:left;"> B.S. in Environment & Sustainability
+<p style="text-align:left;"> **B.S. in Environment & Sustainability**
 <span style="float:right;"> *August 2020 – May 2024* </span>
 </p>
 •	Minor: Sustainable Agricultural and Food Systems  
@@ -34,7 +33,6 @@ knitr::opts_chunk$set(echo = TRUE)
 <hr/>
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Mallory, E. B., Matthew, R. R., (2024). High Seeding Rates Suppress Weeds and Increase Yield in Organic No-Till Planted Black Bean. Agronomy Journal. (in preparation)
 <hr/>
-
 #### **Conference Presentations**
 <hr/>
 Sharifi, N. A., Pelzer, C. J., Menalled, U. D., Loria, K., Wayman, S., Silva, E. M., Matthew, R. R., (2024, October). Optimizing Weed Management and Crop Yield in Organic No-till Planted Corn Production. Oral presentation at the 2024 ASA, CSSA, SSSA International Annual Meeting in Organic Management Systems Oral Session (includes graduate student competition), San Antonio, TX (abstract accepted)
@@ -42,7 +40,7 @@ Sharifi, N. A., Pelzer, C. J., Menalled, U. D., Loria, K., Wayman, S., Silva, E.
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Mallory, E. B., Matthew, R. R., (2024, October). Enhanced Weed Suppression and Profitability with High Seeding Rates in Organic No-till Planted Black Bean. Poster presentation at the 2024 ASA, CSSA, SSSA International Annual Meeting in Organic Management Systems Poster Session (includes graduate student competition), San Antonio, TX (abstract accepted)
 
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Mallory, E. B., Matthew, R. R., (2023, October). Higher Seeding Rates Enhance Weed Suppression, Yield and Profitability for Organic No-till Black Bean Production. Oral presentation at the 2023 ASA, CSSA, SSSA International Annual Meeting in Organic Management Systems General Oral Session (includes graduate student competition), St. Louis, MO 
-**ERROR ERROR I AM MAKING A MISTAKE**
+
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Mallory, E. B., Matthew, R. R., (2023, July). High Seeding Rates Optimize Weed Suppression and Profitability in Organic No-till Planted Black Bean. Oral presentation at the 2023 University at Buffalo Undergraduate Research Conference (virtual) 
 
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Matthew, R. R., (2023, April). Increasing Planting Rates to Optimize No-till Black Bean Production for Organic Farmers. Oral presentation at the 2023 International Association of Students in Agricultural and Related Sciences (IAAS) USA Summit & National Research Symposium, Ithaca, NY 
@@ -50,7 +48,7 @@ Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridg
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Matthew, R. R., (2023, March). Effect of Seeding Rate on Organic No-till Black Bean Production. Oral presentation at the 24th Annual University of Maryland National Conference, College Park, MD
 
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Matthew, R. R., (2022, November). Effect of Seeding Rate on Organic No-till Black Bean Production. Oral presentation at the 2022 ASA, CSSA, SSSA International Annual Meeting in Organic Management Systems General Oral (includes graduate student competition), Baltimore, MD
-*ERROR ERROR I AM MAKING A MISTAKE*
+
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Matthew, R. R., (2022, July). Effect of Seeding Rate on Organic No-till Black Bean Production. Poster presentation at the 2022 University at Buffalo Undergraduate Research Conference (virtual) 
 
 Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridge, S., Matthew, R. R., (2022, March). Introduction to the Black Bean Seeding Rate Experiment. Poster presentation at the 23rd Annual University of Maryland National Conference, College Park, MD
@@ -65,7 +63,7 @@ Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridg
 •	Conduct photosynthetically active radiation (PAR) sampling, plant/soil sampling, sample processing, and plot maintenance for various lab experiments  
 •	Assist graduate students with research and experimental processes at 3 different lab locations in a variety of demanding outdoor/indoor lab environments  
 •	Create experimental protocols, perform and structure data entry in Excel, analyze data in R, and construct presentations for conferences  
-*GIT GIT  GIT GIT GIT GIT GTI GIT IT*
+
 
 <br/>
 
@@ -98,9 +96,6 @@ Sharifi, N. A., Loria, K., Pelzer, C. J., Silva, E. M., Darby, H. M., Pethybridg
 •	Sampled, harvested, and transported the hydroponic-grown feed for dairy cattle consumption  
 •	Worked collaboratively with graduate students and research assistants to execute experimental protocols  
 <hr/>
-
-<br/>
-
 #### **Teaching**
 <hr/>
 <p style="text-align:left;"> **The Global Food, Energy, and Water Nexus – Engaging the US, China, and India for a Sustainable Future | ANSC/FDSC/AEM/CHEME 4880, ANSC/FDSC/AEM 6880, CHEME 6780/CEE5820** <span style="float:right;"> *2023* </span> </p>

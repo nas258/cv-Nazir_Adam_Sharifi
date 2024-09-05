@@ -11,7 +11,9 @@ Nazir Adam Sharifi
 </center>
 <center>
 <h4>
-607-342-2191 • <nas258@cornell.edu>
+607-342-2191
+</center>
+• <nas258@cornell.edu>
 </h1>
 </center>
 
